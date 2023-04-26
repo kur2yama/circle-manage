@@ -1,0 +1,8 @@
+@font-face{
+    font-family: FZBIAOYSK;
+    src: url('https://res.cjyun.org/t/site/10140/d18a86f2ccf86bae590efbac4536ea76/assets//newHome/font/FZBIAOYSK.ttf');
+    font-display: swap;
+}
+div,p,span,a{
+    font-family:"FZBIAOYSK","Lucida Grande", Helvetica, Arial, "Microsoft YaHei", sans-serif;
+}
